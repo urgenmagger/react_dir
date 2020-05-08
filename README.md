@@ -4,7 +4,7 @@
 chmod +x ./rdir.sh
 ```
 ```
-sudo cp script.sh /usr/local/bin/rdir.sh
+sudo cp rdir.sh /usr/local/bin/rdir.sh
 ```
 run in the desired directory
 
